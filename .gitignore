@@ -1,0 +1,4 @@
+# secrets — never commit
+config.env
+*.xlsx
+logs/
